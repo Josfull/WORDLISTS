@@ -1,0 +1,11 @@
+admin
+administrator
+root
+tomcat
+manager
+user
+guest
+spring
+cxf
+jboss
+weblogic

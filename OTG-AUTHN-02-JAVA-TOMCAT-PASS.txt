@@ -1,0 +1,12 @@
+admin
+password
+123456
+1234
+tomcat
+manager
+root
+qwerty
+welcome
+changeme
+cxf
+spring
